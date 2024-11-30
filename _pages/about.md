@@ -40,7 +40,7 @@ Her work has been [published](publications) in _World Development_, _Land Use Po
 Dr. Wang holds her PhD and MS from the University of British Columbia (UBC), Canada, 
 and a BM in rural development from Renmin University of China. 
 
-For her CV, please click here: : [CV](/files/pdf/Williams CV.pdf) or [中文简历]((/files/pdf/王炜晔简历202408.pdf).
+For her CV, please click here: : [CV](/files/pdf/Williams CV.pdf) or [中文简历](/files/pdf/王炜晔简历202408.pdf).
 
 Thank you for visiting!
 
