@@ -26,3 +26,21 @@ using a broad variety of methods such as latent variable models, geospatial
 analysis, and big data. I have [taught](teaching) quantitative methodology and
 international relations, and am a certified instructor with
 [The Carpentries](https://carpentries.org).
+
+
+Weiye Wang (王炜晔) is Associated Professor at Renmin University, China and her expertise lies 
+at the intersection of agrarian change, conservation, environmental governance, tourism development, and local livelihoods, 
+with a focus on protected areas in China. Her work relies primarily on fieldworks. 
+She has conducted fieldwork in 70+ protected areas across China. 
+
+Her research has been supported by numerous grants from the National Key Research and Development Program of China, 
+National Natural Science Foundation of China, French Development Agency, the Ruffor Foundation. 
+Her work has been [published](publications) in _World Development_, _Land Use Policy_, _Forest Policy and Economics_, _Journal of Contemporary China_, among others.
+
+Dr. Wang holds her PhD and MS from the University of British Columbia (UBC), Canada, 
+and a BM in rural development from Renmin University of China. 
+
+For her CV, please click here: CV or 中文简历。
+
+Thank you for visiting!
+
