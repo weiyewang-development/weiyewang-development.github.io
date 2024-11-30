@@ -1,5 +1,5 @@
 ---
-title: "Turning the Lights on to Keep Them in the Fold: How Governments Preempt Secession Attempts"
+title: "Conflicts in mangrove protected areas through the actor-centred power framework - Insights from China"
 collection: publications
 permalink: /publication/2024-conflict
 date: 2024-01-1
