@@ -10,10 +10,10 @@ locale                   : "en-US"
 title                    : "Weiye Wang"
 title_separator          : "-"
 name                     : &name "Weiye Wang"
-description              : &description "Associate Professor at Renmin University"
+description              : &description "Associated Professor at Renmin University"
 url                      : https://weiyewang-ruc.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "jayrobwilliams/jayrobwilliams.github.io"
+repository               : "weiyewang-ruc/weiyewang-ruc.github.io"
 teaser                   : # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
