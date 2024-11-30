@@ -3,7 +3,6 @@ permalink: /awards/
 title: "Awards & Honors"
 ---
 
-## Teaching
 - 2023-2026  Young Talents Award, Renmin University of China
 - 2022  Advanced Individuals in Undergraduate Admissions, Renmin University of China
 - 2020-2023  Young Scholar Award, Renmin University of China
