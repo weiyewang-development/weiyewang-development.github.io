@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Weiye Wang (王炜晔) is Associated Professor at [Renmin University of China](https://www.ruc.edu.cn/) and her expertise lies 
+Weiye Wang (王炜晔) is Associated Professor at [Renmin University of China](http://www.sard.ruc.edu.cn/szll/zzjs/zljs/1dd5c48274a14d50b92a247660304b09.htm) and her expertise lies 
 at the intersection of agrarian change, conservation, environmental governance, tourism development, and local livelihoods, 
 with a focus on protected areas in China. Her work relies primarily on fieldworks. 
 She has conducted fieldwork in 70+ protected areas across China. 
